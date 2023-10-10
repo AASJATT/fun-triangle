@@ -1,0 +1,39 @@
+h1{ 
+    color:green
+}
+
+label{
+    display:flex;
+    flex-direction: column;
+    padding:1rem, 1rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+     }
+    
+     
+    
+input{
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    border-color: green;
+    
+}
+
+button{
+    background-color: green;
+    color:white;
+    padding:0.5rem;
+    border-radius: 1rem;
+    border: none;
+}
+.nav .link {
+    color:white;
+    text-decoration: none;
+    padding:1rem;
+}
+.nav{
+    background-color: green;
+    padding:1rem;
+    width:80%;
+    
+}
